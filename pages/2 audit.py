@@ -155,3 +155,7 @@ with tab2:
             pr = df.profile_report()
             st_profile_report(pr)
             
+    
+        
+    
+    
